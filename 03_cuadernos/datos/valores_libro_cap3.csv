@@ -1,0 +1,86 @@
+clave,valor,unidad,referencia
+colebrook_velocidad,1.6977,m/s,Ejemplo 3.1
+colebrook_reynolds,507267.0,adimensional,Ejemplo 3.1
+colebrook_rugosidad_relativa,0.0008667,adimensional,Ejemplo 3.1
+colebrook_factor_friccion,0.0196228,adimensional,Ejemplo 3.1
+colebrook_perdida_carga,8.167,m,Ejemplo 3.1
+colebrook_swamee_jain,0.019742,adimensional,Ejemplo 3.1
+colebrook_orden_newton,2.0,adimensional,Ejemplo 3.1
+lagunas_perfil_1,142.42,mg/L,seccion 3.1.2
+lagunas_perfil_2,83.4,mg/L,seccion 3.1.2
+lagunas_perfil_3,41.5,mg/L,seccion 3.1.2
+lagunas_perfil_4,17.65,mg/L,seccion 3.1.2
+lagunas_perfil_5,7.33,mg/L,seccion 3.1.2
+lagunas_remocion,97.07,por ciento,seccion 3.1.2
+lagunas_retencion,8.33,d,seccion 3.1.2
+lagunas_carga_afluente,300000.0,mg/d,seccion 3.1.2
+lagunas_carga_efluente,8792.84,mg/d,seccion 3.1.2
+lagunas_consumo,291207.16,mg/d,seccion 3.1.2
+fermentador_tiempo_25C,17.0604614,h,Ejemplo 3.2
+fermentador_tiempo_30C,10.9186953,h,Ejemplo 3.2
+fermentador_tiempo_35C,7.5824273,h,Ejemplo 3.2
+fermentador_invariante,12.5,g/L,Ejemplo 3.2
+fermentador_mumax_25C,0.192,1/h,Ejemplo 3.2
+fermentador_mumax_30C,0.3,1/h,Ejemplo 3.2
+fermentador_mumax_35C,0.432,1/h,Ejemplo 3.2
+fermentador_evaluaciones,584.0,evaluaciones,Ejemplo 3.2
+tolerancia_tiempo_rtol3,10.9028,h,seccion 3.2.1
+tolerancia_error_rtol3,0.00146,adimensional,seccion 3.2.1
+tolerancia_evaluaciones_rtol3,44.0,evaluaciones,seccion 3.2.1
+tolerancia_error_rtol6,1.85e-07,adimensional,seccion 3.2.1
+tolerancia_evaluaciones_rtol6,194.0,evaluaciones,seccion 3.2.1
+tolerancia_error_rtol9,2.45e-10,adimensional,seccion 3.2.1
+tolerancia_evaluaciones_rtol9,584.0,evaluaciones,seccion 3.2.1
+circuito_autovalor_rapido,-1005.0002,1/s,Ejemplo 3.3
+circuito_autovalor_lento,-0.0497512,1/s,Ejemplo 3.3
+circuito_razon_rigidez,20200.0,adimensional,Ejemplo 3.3
+circuito_pasos_rk45,30376.0,pasos,Ejemplo 3.3
+circuito_evaluaciones_rk45,212576.0,evaluaciones,Ejemplo 3.3
+circuito_pasos_bdf,144.0,pasos,Ejemplo 3.3
+circuito_evaluaciones_bdf,292.0,evaluaciones,Ejemplo 3.3
+circuito_paso_medio_rk45,0.003292,s,Ejemplo 3.3
+circuito_tau_rapida,0.000995,s,Ejemplo 3.3
+circuito_tau_lenta,20.1,s,Ejemplo 3.3
+circuito_error_rk45,9.1e-07,adimensional,Ejemplo 3.3
+circuito_error_bdf,1.1e-06,adimensional,Ejemplo 3.3
+circuito_producto_h_lambda,3.31,adimensional,Ejemplo 3.3
+rio_peclet_celda,0.583,adimensional,Ejemplo 3.4
+rio_pico_analitico,1.8655,mg/L,Ejemplo 3.4
+rio_abscisa_pico,2460.0,m,Ejemplo 3.4
+rio_error_maximo,7.18e-06,kg/m3,Ejemplo 3.4
+rio_masa_remanente,24.740935,kg,Ejemplo 3.4
+rio_orden_observado,2.0,adimensional,Ejemplo 3.4
+rio_paso_difusion,16.67,s,seccion 3.3.2
+rio_paso_adveccion,57.14,s,seccion 3.3.2
+rio_error_explicito_d045,6.3e-05,kg/m3,Ejemplo 3.4
+riego_frontera_bruto_p045_d45,393.8,mm,Ejemplo 3.5
+riego_frontera_bruto_p085_d65,243.8,mm,Ejemplo 3.5
+riego_deficit_p085_d65,21.5,por ciento,Ejemplo 3.5
+riego_no_dominadas_clima_normal,5.0,alternativas,Ejemplo 3.5
+biogas_desviacion_replicas_mc,0.933,kW h/d,Ejemplo 3.6
+biogas_desviacion_replicas_lhs,0.112,kW h/d,Ejemplo 3.6
+biogas_reduccion_varianza,69.0,veces,Ejemplo 3.6
+riego_agua_aprovechable,126.0,mm,Ejemplo 3.5
+biogas_media,92.34,kW h/d,Ejemplo 3.6
+biogas_desviacion,21.22,kW h/d,Ejemplo 3.6
+biogas_p05,61.71,kW h/d,Ejemplo 3.6
+biogas_p50,90.05,kW h/d,Ejemplo 3.6
+biogas_p95,130.62,kW h/d,Ejemplo 3.6
+biogas_excedencia_110,0.1945,adimensional,Ejemplo 3.6
+biogas_error_estandar,0.15,kW h/d,Ejemplo 3.6
+biogas_valores_centrales,91.53,kW h/d,Ejemplo 3.6
+lcoe_crf,0.101806,1/a,Ejemplo 3.7
+lcoe_factor_degradacion,0.931205,adimensional,Ejemplo 3.7
+lcoe_produccion_especifica,1325.6,kW h/(kW a),Ejemplo 3.7
+lcoe_nominal,0.083523,USD/(kW h),Ejemplo 3.7
+lcoe_elasticidad_inversion,0.87355,adimensional,Ejemplo 3.7
+lcoe_elasticidad_tasa,0.637,adimensional,Ejemplo 3.7
+lcoe_amplitud_tasa,35.8,por ciento,Ejemplo 3.7
+lcoe_amplitud_irradiacion,16.1,por ciento,Ejemplo 3.7
+ishigami_s1,0.3138,adimensional,seccion 3.6.2
+ishigami_s2,0.4423,adimensional,seccion 3.6.2
+ishigami_s3,-0.0001,adimensional,seccion 3.6.2
+ishigami_st3,0.2436,adimensional,seccion 3.6.2
+sobol_biogas_s_B0,0.616,adimensional,seccion 3.6.2
+sobol_biogas_suma_primer_orden,0.985,adimensional,seccion 3.6.2
+morris_evaluaciones,210.0,evaluaciones,seccion 3.6.2

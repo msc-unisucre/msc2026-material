@@ -1,0 +1,7 @@
+factor,descripcion,distribucion,par1,par2,par3,unidad
+m,masa_de_estiercol,normal,1200.0,90.0,0.0,kg/d
+SV,fraccion_solidos_volatiles,normal,0.115,0.012,0.0,adimensional
+B0,potencial_metanogenico,lognormal,0.21,0.18,0.0,m3/kg SV
+k,constante_de_hidrolisis,uniforme,0.1,0.25,0.0,1/d
+TRH,tiempo_de_retencion,triangular,22.0,28.0,35.0,d
+eta,eficiencia_electrica,triangular,0.28,0.32,0.36,adimensional

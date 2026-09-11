@@ -1,0 +1,8 @@
+factor,descripcion,nominal,minimo,maximo,unidad
+Hs,irradiacion_diaria,5.0,4.6,5.4,kW h/(m2 d)
+PR,razon_de_desempeno,0.78,0.72,0.83,adimensional
+Cinv,inversion_especifica,950.0,820.0,1150.0,USD/kW
+Com,operacion_anual,14.0,10.0,20.0,USD/(kW a)
+i,tasa_de_descuento,0.09,0.07,0.12,adimensional
+n,vida_util,25.0,20.0,30.0,a
+delta,degradacion_anual,0.006,0.004,0.009,1/a

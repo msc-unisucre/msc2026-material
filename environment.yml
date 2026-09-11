@@ -1,0 +1,28 @@
+# Entorno declarativo del curso y del proyecto integrador.
+# Modelación y Simulación Computacional | Maestría en Ingeniería
+# Universidad de Sucre | Periodo 2026-2
+#
+# Creación del entorno
+#     conda env create -f environment.yml
+#     conda activate msc2026
+#
+# Actualización tras un cambio de este archivo
+#     conda env update -f environment.yml --prune
+#
+# Registro del entorno efectivamente usado, que se adjunta a la entrega
+#     conda env export --no-builds > resultados/entorno_exportado.yml
+name: msc2026
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26.*
+  - scipy=1.11.*
+  - pandas=2.1.*
+  - matplotlib=3.8.*
+  - sympy=1.12.*
+  - jupyterlab=4.0.*
+  - ipykernel=6.29.*
+  - nbconvert=7.14.*
+  - pytest=7.4.*
+  - pip=23.*
